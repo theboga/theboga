@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @theboga
 - 👀 I’m interested in development mobile and web apps 
-- 🌱 I’m currently learning react native to complement the development I'm already doing with swift
+-  My main skill is Swift and a bit of Objetive-C
+- 🌱 I’m currently learning react JS to complement the development I'm already doing with Vue and Laravel
 - 💞️ I’m looking to collaborate on Tech Industry
 - 📫 How to reach me the_boga@hotmail.com
 - 👨🏾‍💻 My website  www.ignaciobogarin.com
