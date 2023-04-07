@@ -8,7 +8,7 @@
 
 CodeWar Badge
 
-<a href="https://www.codewars.com/users/the_boga/"><img src="https://www.codewars.com/users/the_boga/badges/large" alt="Code wars"/>
+<a href="https://www.codewars.com/users/the_boga/" target="_blank"><img src="https://www.codewars.com/users/the_boga/badges/large" alt="Code wars"/>
 </a>
 
 
