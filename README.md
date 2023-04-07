@@ -8,7 +8,11 @@
 
 CodeWar Badge
 
-![image](https://www.codewars.com/users/the_boga/badges/large)
+![image](https://www.codewars.com/users/the_boga/badges/large)(https://www.codewars.com/users/the_boga/)
+
+
+
+<img src="https://www.codewars.com/users/the_boga/badges/large" alt="My cool logo"/>(https://www.codewars.com/users/the_boga/)
 
 <!---
 theboga/theboga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
